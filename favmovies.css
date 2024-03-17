@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: none;
+  font-family: "Arial", sans-serif;
+}
+
+.landingpage {
+  position: relative;
+  text-align: center;
+  color: #000;
+}
+
+img {
+  height: 750px;
+  width: 1515px;
+}
+
+.maintext {
+  position: absolute;
+  top: 15rem;
+  left: 5rem;
+  font-size: 1.8rem;
+}
+
+.maintext img {
+  height: 7rem;
+  width: 8rem;
+  background-color: none;
+}
+
+.rrr {
+  display: flex;
+  justify-content: center;
+}
+
+.rrr img {
+  height: 500px;
+  width: 350px;
+  margin-top: 8rem;
+}
+
+.rrr img {
+  padding: 0.5rem;
+  box-shadow: 2px 8px 12px 5px lightgray;
+}
+
+.opp img {
+  padding: 0.5rem;
+  box-shadow: 2px 8px 12px 5px lightgray;
+}
+
+.animal img {
+  padding: 0.5rem;
+  box-shadow: 2px 8px 12px 5px lightgray;
+}
+
+.hanuman img {
+  padding: 0.5rem;
+  box-shadow: 2px 8px 12px 5px lightgray;
+}
+
+.mad img {
+  padding: 0.5rem;
+  box-shadow: 2px 8px 12px 5px lightgray;
+}
+
+.rrrdes {
+  text-align: center;
+}
+
+.opp {
+  display: flex;
+  justify-content: center;
+}
+
+.opp img {
+  height: 500px;
+  width: 350px;
+  margin-top: 3rem;
+}
+
+.oppdes {
+  text-align: center;
+}
+
+.animal {
+  display: flex;
+  justify-content: center;
+}
+
+.animal img {
+  height: 500px;
+  width: 350px;
+  margin-top: 3rem;
+}
+
+.animaldes {
+  text-align: center;
+}
+
+.hanuman {
+  display: flex;
+  justify-content: center;
+}
+
+.hanuman img {
+  height: 500px;
+  width: 350px;
+  margin-top: 3rem;
+}
+
+.hanumandes {
+  text-align: center;
+}
+
+.mad {
+  display: flex;
+  justify-content: center;
+}
+
+.mad img {
+  height: 500px;
+  width: 350px;
+  margin-top: 3rem;
+}
+
+.maddes {
+  text-align: center;
+}

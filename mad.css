@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+}
+
+.landing {
+  display: flex;
+  justify-content: center;
+}
+
+.landing img {
+  height: 500px;
+  width: 1000px;
+  margin-top: 1.5rem;
+}
+
+body h1 {
+  margin-top: 2rem;
+  text-align: center;
+  color: goldenrod;
+}
+
+.cast {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.cast img {
+  margin-top: 2rem;
+  height: 300px;
+}
+
+.landing img {
+  padding: 0.5rem;
+  box-shadow: 2px 8px 12px 5px lightgray;
+}
